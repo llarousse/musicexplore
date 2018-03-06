@@ -1,0 +1,5 @@
+---
+# Used to deploy the site
+site_host: basicproject.com
+site_name: basicproject
+site_path: /var/www/basicproject/basicproject/

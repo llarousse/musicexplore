@@ -1,0 +1,35 @@
+syntax: glob
+
+
+# NOTE: Delete this and commit production-compiled assets before deploying
+dist
+
+# Directories
+node_modules
+site_media
+search_index
+.sass-cache
+CACHE
+
+# Files
+*~
+*.bak
+*.db
+*.kpf
+*.old
+*.pyc
+*.retry
+*.sassc
+*.swp
+*.tmproj
+.vagrant
+local_settings.py
+pip-log.txt
+
+# Mac stuff
+.DS_Store
+
+# Other SCM
+.svn
+.CVS
+.hg*
